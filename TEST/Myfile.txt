@@ -2,3 +2,7 @@
 Earth has Moon.
 Earth is a part of Solar System.
 "Go...Corona...go..."
+
+
+"today is Friday."
+
