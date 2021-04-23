@@ -1,3 +1,4 @@
-"Hello_world",Toda is Tuesday.
+"Hello_world",Today is Tuesday.
 Earth has Moon.
-Eart is a part of Solar System.
+Earth is a part of Solar System.
+"Go...Corona...go..."
