@@ -1,3 +1,5 @@
 "Hello_world",Toda is Tuesday.
 Earth has Moon.
 Eart is a part of Solar System.
+
+"today is Friday."
